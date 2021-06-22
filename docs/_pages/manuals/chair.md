@@ -75,7 +75,7 @@ Additional Notes: put additional information here (if any).
 1. 确定活动分享人，以及分享主题：
     1. 根据已有 [Talks](https://www.bot5.club/talks/) 的情况，邀请已登记但未分享的成员或其他成员来做活动分享，确定本周分享内容
     1. Speaker 确认方法：会员本人将自我介绍、本次自己分享的主题、大纲，回复在上一次活动纪要的评论中
-1. 确认本次活动场地。尽量避免连续两次使用统一场地，绝对不能连续三次使用同一场地。如主席自己没有地点，可以咨询上届主席或联系以下场地负责人：
+1. 确认本次活动场地。尽量避免连续两次使用同一场地，绝对不能连续三次使用同一场地。如主席自己没有地点，可以咨询上届主席或联系以下场地负责人：
     1. 腾讯办公室
         - 地址：中关村，第三极大厦、理想国际大厦
         - 联系人：[李卓桓](https://www.bot5.club/people/huan)
@@ -111,6 +111,7 @@ Additional Notes: put additional information here (if any).
 
 #### 2 沙龙流程
 
+1. ![QRCode start]({{ '/assets/images/start.png' | relative_url }})
 1. 最后一次活动回顾
 1. 新人流程
     1. 将新人邀请进入 _“Bot Friday Open Form - BFOF”_ 微信群。（邀请人负责邀请。如果邀请人不在现场则由主席一人负责）
@@ -142,6 +143,7 @@ Additional Notes: put additional information here (if any).
 1. 所有参会人员合影（原图经过脸盲助手发到会员群，并将带名字的照片，发布在活动纪要中）
 1. 活动结束，自由交流
 1. 轮值主席组织大家将场地复原（桌椅、白板、设备等）
+1. ![QRCode end]({{ '/assets/images/end.png' | relative_url }})
 
 #### 3 After Party (optional)
 

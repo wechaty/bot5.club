@@ -18,6 +18,9 @@ Talks from our BOT5 members.
 
 | Seminar | Member | Topic |
 | ------- | ------ | ----- |
+| [S2E5](https://www.bot5.club/events/seminar-minutes-2020-07/)| [刘思聪](https://github.com/sicongliu92) | Mobile and Embedded Deep Learning for on-device intelligence |
+| S2E4| 林一凡 | YC美国所投的早期人工智能创业公司在做什么？|
+| S2E2| 李恺 | Chatbot在定制旅游公司中的应用 |
 | [S1E21](https://bot5.club/events/seminar-minutes-21/) | [张璐](https://bot5.club/people/github_username) | 生成式闲聊机器人的自动评价方法 |
 | [S1E15](https://blog.chatie.io/bot5-seminar-minutes-0/) | [王磊](https://bot5.club/people/alex) | [Chatbot在线下社区活动中的应用](https://www.bot5.club/talks/chatbot-for-social-events/) |
 | [S1E15](https://bot5.club/events/seminar-minutes-15/) | [吴际](https://github.com/wuji1mol) | [在线教育微信社群管理的实践和构想 by 轻课](https://www.bot5.club/talks/TBD) |
@@ -61,3 +64,11 @@ Talks from our BOT5 members.
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [郑譞](https://bot5.club/people/github_username) | [聊天机器人和自然语言的标注](https://www.bot5.club/talks/TBD) | Early November 2019 |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李晶莹](https://bot5.club/people/github_username) | [聊天机器人聊论语](https://www.bot5.club/talks/TBD) | TBD |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [王冠](https://bot5.club/people/crownpku) | [Chatstack：搭建中文NLU的全流程用户交互系统](https://www.bot5.club/talks/TBD) | Late November 2019 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [马跃](https://bot5.club/people/github_username) | [DSTC8基于Schema的多领域对话状态追踪的实现和思考](https://www.bot5.club/talks/TBD) | July 2020 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [邓国东](https://bot5.club/people/github_username) | [Chatbot在区块链领域的应用](https://www.bot5.club/talks/TBD) | 17 July 2020 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [吴显昆](https://bot5.club/people/github_username) | [GPT-3 API 的杂谈与实战分享](https://www.bot5.club/talks/TBD) | Early December 2020 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [高宇](https://bot5.club/people/gaoyu) | [企业汽车金融机器人应用](https://www.bot5.club/talks/TBD) | 5 February 2021 |
+
+### 新人登记分享主题
+
+请在 GitHub 发送 PR 更新[本文件](https://github.com/wechaty/bot5.club/blob/master/docs/_pages/talks.md)：<https://github.com/wechaty/bot5.club/edit/master/docs/_pages/talks.md>
